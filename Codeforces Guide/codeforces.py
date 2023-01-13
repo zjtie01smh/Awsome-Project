@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-update: 2020-08-25 21:33:27
+update: 2023-01-13 21:33:27
 change: last_page = 64,  fix bug-->  tr td tag decode， add score and problem link columns
 Created on Tue Jan  3 10:29:52 2017
-@author: liuweizhi
+@author: shengminghui
 """
 
 import re
